@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 24 - {Factors influencing Insurance Premium}
 
 - Factors influencing Insurance Premium
 
